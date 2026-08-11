@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 520">
+<defs>
+  <filter id="s"><feDropShadow dx="0" dy="9" stdDeviation="7" flood-color="#6b4435" flood-opacity=".16"/></filter>
+</defs>
+<g filter="url(#s)">
+  <!-- party hat -->
+  <g transform="translate(253 30) rotate(-8)">
+    <path d="M-38 90 L38 90 L8 -28 Z" fill="#ff9fba" stroke="#754d40" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M-38 90 L38 90 L8 -28 Z" fill="none" stroke="#fff" stroke-width="3" stroke-dasharray="8 8" opacity=".5"/>
+    <circle cx="8" cy="-30" r="14" fill="#ffe49a" stroke="#754d40" stroke-width="3"/>
+    <circle cx="-20" cy="60" r="6" fill="#fff" opacity=".7"/>
+    <circle cx="18" cy="40" r="5" fill="#fff" opacity=".7"/>
+    <ellipse cx="0" cy="92" rx="42" ry="10" fill="#ffc0cf" stroke="#754d40" stroke-width="3"/>
+  </g>
+  <!-- body -->
+  <ellipse cx="252" cy="328" rx="148" ry="108" fill="#b9825f"/>
+  <!-- head -->
+  <path d="M128 265 C114 185 151 113 230 101 C311 89 374 130 379 204 C385 282 340 326 259 331 C189 336 141 313 128 265Z" fill="#c48d67"/>
+  <!-- ears -->
+  <circle cx="155" cy="137" r="29" fill="#9a684e"/>
+  <circle cx="348" cy="137" r="29" fill="#9a684e"/>
+  <circle cx="155" cy="137" r="16" fill="#d7a07c"/>
+  <circle cx="348" cy="137" r="16" fill="#d7a07c"/>
+  <!-- big sparkly eyes -->
+  <ellipse cx="188" cy="200" rx="11" ry="13" fill="#49352f"/>
+  <ellipse cx="318" cy="200" rx="11" ry="13" fill="#49352f"/>
+  <circle cx="191" cy="196" r="4" fill="#fff"/>
+  <circle cx="185" cy="204" r="2.5" fill="#fff" opacity=".7"/>
+  <circle cx="321" cy="196" r="4" fill="#fff"/>
+  <circle cx="315" cy="204" r="2.5" fill="#fff" opacity=".7"/>
+  <!-- blush -->
+  <ellipse cx="162" cy="232" rx="28" ry="15" fill="#ed9aa1" opacity=".65"/>
+  <ellipse cx="343" cy="232" rx="28" ry="15" fill="#ed9aa1" opacity=".65"/>
+  <!-- snout -->
+  <ellipse cx="253" cy="240" rx="69" ry="51" fill="#a86f52"/>
+  <ellipse cx="253" cy="227" rx="38" ry="25" fill="#68483c"/>
+  <ellipse cx="241" cy="221" rx="8" ry="5" fill="#d7a07c" opacity=".55"/>
+  <!-- big smile -->
+  <path d="M253 233 C253 250 240 255 228 252 M253 233 C253 250 266 255 278 252" fill="none" stroke="#4c3832" stroke-width="5" stroke-linecap="round"/>
+  <!-- arms holding heart -->
+  <path d="M135 296 C112 317 117 348 146 353 C164 356 177 343 179 329" fill="#b9825f" stroke="#8b5e49" stroke-width="5"/>
+  <path d="M371 296 C394 317 389 348 360 353 C342 356 329 343 327 329" fill="#b9825f" stroke="#8b5e49" stroke-width="5"/>
+  <!-- heart in arms -->
+  <g transform="translate(253 350)">
+    <path d="M0 18 C-8 6 -28 -4 -28 -18 C-28 -30 -16 -36 -8 -30 C-4 -27 0 -22 0 -18 C0 -22 4 -27 8 -30 C16 -36 28 -30 28 -18 C28 -4 8 6 0 18 Z" fill="#ff6b8a" stroke="#d04865" stroke-width="3"/>
+    <ellipse cx="-10" cy="-20" rx="6" ry="4" fill="#fff" opacity=".4"/>
+  </g>
+  <!-- belly patch -->
+  <ellipse cx="253" cy="340" rx="82" ry="55" fill="#d5a27b" opacity=".6"/>
+  <!-- little flower on left -->
+  <g transform="translate(95 315)">
+    <path d="M0 55 C22 42 25 21 16 0" fill="none" stroke="#6e9565" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="14" cy="-4" r="13" fill="#ffd4e1"/><circle cx="32" cy="4" r="13" fill="#ffc1d3"/>
+    <circle cx="27" cy="23" r="13" fill="#ffd4e1"/><circle cx="7" cy="22" r="13" fill="#ffc1d3"/>
+    <circle cx="19" cy="10" r="8" fill="#ffe59a"/>
+  </g>
+  <!-- feet -->
+  <ellipse cx="195" cy="418" rx="44" ry="20" fill="#9d6b50"/>
+  <ellipse cx="312" cy="418" rx="44" ry="20" fill="#9d6b50"/>
+  <!-- tiny sparkle stars -->
+  <g opacity=".6">
+    <path d="M400 80 L404 90 L414 94 L404 98 L400 108 L396 98 L386 94 L396 90 Z" fill="#ffe49a"/>
+    <path d="M80 200 L83 207 L90 210 L83 213 L80 220 L77 213 L70 210 L77 207 Z" fill="#ffd7e3" opacity=".5"/>
+  </g>
+</g>
+</svg>
