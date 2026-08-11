@@ -116,7 +116,7 @@ dan lebih banyak hari yang terasa ringan.
 
 Happy birthday, Citra Sindy Pangestu ❤️
 
-my wish,
+aku berharap,
 Semoga kamu selalu jadi kamu.
 
 — Tirta S
