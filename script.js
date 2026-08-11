@@ -104,7 +104,7 @@ tapi aku senang punya kamu di hidupku.
 
 Senang bisa ngobrol sama kamu,
 senang bisa berbagi hal-hal kecil,
-bahkan senang untuk hal-hal sederhana yang mungkin sebenarnya nggak penting.
+bahkan senang untuk hal-hal sederhana apapun itu.
 
 Aku nggak tahu nanti kita akan melewati berapa banyak cerita lagi.
 Tapi untuk sekarang, aku cuma ingin menikmati setiap momennya bersamamu.
@@ -114,10 +114,10 @@ kamu punya lebih banyak alasan untuk tersenyum,
 lebih banyak hal yang bisa kamu banggakan,
 dan lebih banyak hari yang terasa ringan.
 
-Happy birthday, Citra Sindy Pangestu. ❤️
+Happy birthday, Citra Sindy Pangestu ❤️
 
+my wish,
 Semoga kamu selalu jadi kamu.
-Dan semoga aku tetap boleh ada di banyak cerita setelah ini.
 
 — Tirta S
 `;
