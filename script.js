@@ -99,29 +99,27 @@ musicBtn.addEventListener("click",async()=>{
 });
 
 const letterMessage=`
-Sayang,
+Aku mungkin nggak selalu pandai bilang langsung,
+tapi aku senang punya kamu di hidupku.
 
-Selamat ulang tahun untuk perempuan
-yang selalu berhasil membuat hari-hariku
-menjadi lebih indah.
+Senang bisa ngobrol sama kamu,
+senang bisa berbagi hal-hal kecil,
+bahkan senang untuk hal-hal sederhana yang mungkin sebenarnya nggak penting.
 
-Hari ini usiamu bertambah satu tahun.
+Aku nggak tahu nanti kita akan melewati berapa banyak cerita lagi.
+Tapi untuk sekarang, aku cuma ingin menikmati setiap momennya bersamamu.
 
-Aku berharap kamu selalu diberikan
-kesehatan, kebahagiaan,
-dan kekuatan dalam menjalani semua hal.
+Semoga di umur yang baru ini,
+kamu punya lebih banyak alasan untuk tersenyum,
+lebih banyak hal yang bisa kamu banggakan,
+dan lebih banyak hari yang terasa ringan.
 
-Terima kasih sudah hadir dalam hidupku.
+Happy birthday, Citra Sindy Pangestu. ❤️
 
-Terima kasih sudah menjadi seseorang
-yang membuatku ingin menjadi lebih baik.
+Semoga kamu selalu jadi kamu.
+Dan semoga aku tetap boleh ada di banyak cerita setelah ini.
 
-Semoga semua impianmu perlahan
-menjadi kenyataan.
-
-Tetap menjadi Puspa yang aku kenal.
-
-Selamat ulang tahun ❤️
+— Tirta S
 `;
 const letterModal=$("#letterModal"),typing=$("#typing");
 let typingStarted=false;
